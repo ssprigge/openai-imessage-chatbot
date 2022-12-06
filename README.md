@@ -4,6 +4,8 @@ An iMessage ChatBot using OpenAI's GPT-3, sendblue, and Python.
 
 (Inspired by Miguel Grinberg's [SMS ChatBot](https://www.twilio.com/blog/openai-gpt-3-chatbot-python-twilio-sms))
 
+![image](https://user-images.githubusercontent.com/80603352/205788265-0869061b-7a73-40e9-96ee-74a9c2272d01.png)
+
 ## Mac OS Installation
 **In desired directory:** 
 
