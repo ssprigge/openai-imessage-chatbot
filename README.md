@@ -98,3 +98,5 @@ To exit Python Virtual Environment, execute
 - Once `app.py` is run, the same chat will persist across different iMessage instances, until `app.py` is terminated.
 
 - Due to GPT-3's input token limit and the manner in which the app prompts GPT-3, a sufficiently long chat will exceed the token limit and the bot will stop responding.
+
+- App works best if users wait for a reponse before sending another message
