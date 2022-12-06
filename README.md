@@ -11,7 +11,7 @@ An iMessage ChatBot using OpenAI's GPT-3, sendblue, and Python.
 
 Clone repository
 ```
-$ git clone https://github.com/ssprigge/YOUR-REPOSITORY
+$ git clone https://github.com/ssprigge/openai-imessage-chatbot
 ```
 Create Python Virtual Environment
 ```
